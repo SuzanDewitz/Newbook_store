@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro&display=swap');
 * {
     margin: 10;
@@ -12,17 +13,50 @@ header {
 h1 {
     color: rgb(22, 3, 3);
     font-size: 24px;
+=======
+body {
+>>>>>>> refs/remotes/origin/main
     font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: hsl(184, 86%, 46%);
 }
 
-/* Define styles for other elements if needed */
+header {
+    background-color: #333;
+    color: hsl(251, 89%, 40%);
+    padding: 20px;
+}
+
+h1 {
+    color: #9d00ff;
+    font-size: 28px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #1de157;
+}
+
+h2 {
+    font-size: 24px;
+}
+
 p {
+<<<<<<< HEAD
     color: rgb(199, 10, 10)
+=======
+    font-size: 16px;
+>>>>>>> refs/remotes/origin/main
 }
 
-a {
-    text-decoration: none;
-    color: green;
+section {
+    margin-bottom: 20px;
+}
+
+.contact {
+    margin-top: 20px;
 }
 .social-networks {
     text-align: center;
